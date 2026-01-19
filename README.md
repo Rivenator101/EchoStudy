@@ -4,13 +4,13 @@ A story-driven study habit-building app that helps students build consistent stu
 
 ## Features
 
-- 🎯 **Goal Creation**: Convert study goals into achievable tasks
-- 📅 **Study Scheduling**: Personalized study schedules
-- ⏱️ **Focus Sessions**: Timer-based focus sessions with distraction management
-- 🌱 **Learning Avatar**: Visual progress tracking with a growing avatar
-- 🎮 **Quests & Achievements**: Unlock story quests and achievements
-- 📊 **Progress Timeline**: Track long-term progress visually
-- 🤖 **AI-Powered**: Personalized study plans using OpenAI
+- **Goal Creation**: Convert study goals into achievable tasks
+- **Study Scheduling**: Personalized study schedules
+- **Focus Sessions**: Timer-based focus sessions with distraction management
+- **Learning Avatar**: Visual progress tracking with a growing avatar
+- **Quests & Achievements**: Unlock story quests and achievements
+- **Progress Timeline**: Track long-term progress visually
+- **AI-Powered**: Personalized study plans using OpenAI
 
 ## Tech Stack
 
