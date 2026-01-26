@@ -20,37 +20,8 @@ A story-driven study habit-building app that helps students build consistent stu
 - **OpenAI API** - Personalized study planning and motivation
 - **React Navigation** - Navigation system
 
-## Setup Instructions
 
-1. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-2. **Set up Firebase**
-   - Create a Firebase project at https://console.firebase.google.com
-   - Enable Authentication (Email/Password)
-   - Create a Firestore database
-   - Get your Firebase config values
-
-3. **Set up OpenAI API**
-   - Get an API key from https://platform.openai.com
-   - Add it to your `.env` file
-
-4. **Configure Environment Variables**
-   - Copy `.env.example` to `.env`
-   - Fill in your Firebase and OpenAI credentials:
-   ```
-   EXPO_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
-   EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-   EXPO_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
-   EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
-   EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-   EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
-   EXPO_PUBLIC_OPENAI_API_KEY=your_openai_api_key
-   ```
-
-5. **Run the App**
+4. **Run the App**
    ```bash
    npm start
    ```
