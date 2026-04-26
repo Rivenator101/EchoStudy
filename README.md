@@ -25,7 +25,7 @@ A story-driven study habit-building app that helps students build consistent stu
    ```bash
    npm start
    ```
-   Then press `i` for iOS simulator, `a` for Android emulator, or scan QR code with Expo Go app.
+   Then press `i` for iOS simulator, `a` for Android emulator, 'w' to open this on web, or scan QR code with Expo Go app.
 
 ## Project Structure
 
